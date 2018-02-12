@@ -50,10 +50,10 @@ The default foromat is `MP3`, so use the following works the same way.
 
 ### download AAC format music
 
-**download `美丽的神话 - 孙楠&韩红.mp3`**
+**download `美丽的神话 - 孙楠&韩红.aac`**
 
 ```
-./kuwo.sh 5899378 '美丽的神话 - 孙楠&韩红'
+./kuwo.sh 5899378 '美丽的神话 - 孙楠&韩红' aac
 ```
 
 
